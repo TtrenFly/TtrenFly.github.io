@@ -1,0 +1,38 @@
+/* this is a comment*/
+h1{
+    color: lightsteelblue;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 2px 3px #1a67ba;
+}
+
+.background{
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+*{
+    color: rgb(203, 203, 203);
+    font-size: 20px;
+}
+
+.column{
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: rgba(0, 0, 0, 0.718);
+}
+
+#navbar{
+    background-color: rgba(7, 28, 43, 0.705);
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.doggo{
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+    justify-content: center;
+}
